@@ -39,6 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pacientes\Alergias.cs" />
+    <Compile Include="Pacientes\Canton.cs" />
+    <Compile Include="Pacientes\Genero.cs" />
+    <Compile Include="Pacientes\Paciente.cs" />
+    <Compile Include="Pacientes\Parentezco.cs" />
+    <Compile Include="Pacientes\Provincia.cs" />
+    <Compile Include="Pacientes\SI_NO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

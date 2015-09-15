@@ -31,20 +31,6 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(NuevoExpediente));
             this.groupBox4 = new System.Windows.Forms.GroupBox();
             this.txtObservaciones = new System.Windows.Forms.TextBox();
-            this.label23 = new System.Windows.Forms.Label();
-            this.comboAlteracionSalud = new System.Windows.Forms.ComboBox();
-            this.label22 = new System.Windows.Forms.Label();
-            this.comboOperaciones = new System.Windows.Forms.ComboBox();
-            this.label21 = new System.Windows.Forms.Label();
-            this.comboAlergias = new System.Windows.Forms.ComboBox();
-            this.label20 = new System.Windows.Forms.Label();
-            this.txtNomEnfermedad = new System.Windows.Forms.TextBox();
-            this.comboEnfermedad = new System.Windows.Forms.ComboBox();
-            this.label19 = new System.Windows.Forms.Label();
-            this.label18 = new System.Windows.Forms.Label();
-            this.label17 = new System.Windows.Forms.Label();
-            this.comboTratamiento = new System.Windows.Forms.ComboBox();
-            this.label14 = new System.Windows.Forms.Label();
             this.txtMedico = new System.Windows.Forms.TextBox();
             this.label27 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
@@ -96,12 +82,26 @@
             this.label34 = new System.Windows.Forms.Label();
             this.label33 = new System.Windows.Forms.Label();
             this.label32 = new System.Windows.Forms.Label();
-            this.btnCancelar = new System.Windows.Forms.Button();
-            this.btnIngresarPaciente = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.btnRegresarMenu = new System.Windows.Forms.Button();
             this.btnEliminarPaciente = new System.Windows.Forms.Button();
             this.btnBuscarPaciente = new System.Windows.Forms.Button();
+            this.btnIngresarPaciente = new System.Windows.Forms.Button();
+            this.comboAlteracionSalud = new System.Windows.Forms.ComboBox();
+            this.label22 = new System.Windows.Forms.Label();
+            this.comboOperaciones = new System.Windows.Forms.ComboBox();
+            this.label21 = new System.Windows.Forms.Label();
+            this.comboAlergias = new System.Windows.Forms.ComboBox();
+            this.label20 = new System.Windows.Forms.Label();
+            this.txtNomEnfermedad = new System.Windows.Forms.TextBox();
+            this.comboEnfermedad = new System.Windows.Forms.ComboBox();
+            this.label19 = new System.Windows.Forms.Label();
+            this.label18 = new System.Windows.Forms.Label();
+            this.label17 = new System.Windows.Forms.Label();
+            this.comboTratamiento = new System.Windows.Forms.ComboBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.btnCancelar = new System.Windows.Forms.Button();
+            this.label23 = new System.Windows.Forms.Label();
             this.groupBox4.SuspendLayout();
             this.groupBox3.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -114,10 +114,10 @@
             this.groupBox4.Controls.Add(this.txtObservaciones);
             this.groupBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox4.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.groupBox4.Location = new System.Drawing.Point(719, 441);
+            this.groupBox4.Location = new System.Drawing.Point(700, 414);
             this.groupBox4.Name = "groupBox4";
             this.groupBox4.Size = new System.Drawing.Size(521, 188);
-            this.groupBox4.TabIndex = 156;
+            this.groupBox4.TabIndex = 142;
             this.groupBox4.TabStop = false;
             this.groupBox4.Text = "Observaciones";
             // 
@@ -130,157 +130,10 @@
             this.txtObservaciones.Size = new System.Drawing.Size(482, 163);
             this.txtObservaciones.TabIndex = 38;
             // 
-            // label23
-            // 
-            this.label23.AutoSize = true;
-            this.label23.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.label23.Location = new System.Drawing.Point(666, 635);
-            this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(625, 13);
-            this.label23.TabIndex = 155;
-            this.label23.Text = "_________________________________________________________________________________" +
-    "______________________";
-            // 
-            // comboAlteracionSalud
-            // 
-            this.comboAlteracionSalud.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboAlteracionSalud.FormattingEnabled = true;
-            this.comboAlteracionSalud.Items.AddRange(new object[] {
-            "Si",
-            "No"});
-            this.comboAlteracionSalud.Location = new System.Drawing.Point(406, 611);
-            this.comboAlteracionSalud.Name = "comboAlteracionSalud";
-            this.comboAlteracionSalud.Size = new System.Drawing.Size(42, 21);
-            this.comboAlteracionSalud.TabIndex = 154;
-            // 
-            // label22
-            // 
-            this.label22.AutoSize = true;
-            this.label22.Location = new System.Drawing.Point(36, 619);
-            this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(364, 13);
-            this.label22.TabIndex = 153;
-            this.label22.Text = "¿Ha observado alguna alteración en la salud en general los últimos meses? ";
-            // 
-            // comboOperaciones
-            // 
-            this.comboOperaciones.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboOperaciones.FormattingEnabled = true;
-            this.comboOperaciones.Items.AddRange(new object[] {
-            "Si",
-            "No"});
-            this.comboOperaciones.Location = new System.Drawing.Point(406, 582);
-            this.comboOperaciones.Name = "comboOperaciones";
-            this.comboOperaciones.Size = new System.Drawing.Size(42, 21);
-            this.comboOperaciones.TabIndex = 152;
-            // 
-            // label21
-            // 
-            this.label21.AutoSize = true;
-            this.label21.Location = new System.Drawing.Point(36, 590);
-            this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(289, 13);
-            this.label21.TabIndex = 151;
-            this.label21.Text = "¿Ha tenido operaciones médicas o ha estado internado(a)? ";
-            // 
-            // comboAlergias
-            // 
-            this.comboAlergias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboAlergias.FormattingEnabled = true;
-            this.comboAlergias.Items.AddRange(new object[] {
-            "Aspirina ",
-            "Penicilina ",
-            "Sulfas ",
-            "OtrosMedicamentos "});
-            this.comboAlergias.Location = new System.Drawing.Point(208, 562);
-            this.comboAlergias.Name = "comboAlergias";
-            this.comboAlergias.Size = new System.Drawing.Size(130, 21);
-            this.comboAlergias.TabIndex = 150;
-            // 
-            // label20
-            // 
-            this.label20.AutoSize = true;
-            this.label20.Location = new System.Drawing.Point(36, 565);
-            this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(72, 13);
-            this.label20.TabIndex = 149;
-            this.label20.Text = "Alérgico(a)  a:";
-            // 
-            // txtNomEnfermedad
-            // 
-            this.txtNomEnfermedad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtNomEnfermedad.Location = new System.Drawing.Point(265, 529);
-            this.txtNomEnfermedad.Name = "txtNomEnfermedad";
-            this.txtNomEnfermedad.Size = new System.Drawing.Size(217, 20);
-            this.txtNomEnfermedad.TabIndex = 148;
-            // 
-            // comboEnfermedad
-            // 
-            this.comboEnfermedad.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboEnfermedad.FormattingEnabled = true;
-            this.comboEnfermedad.Items.AddRange(new object[] {
-            "Si",
-            "No"});
-            this.comboEnfermedad.Location = new System.Drawing.Point(208, 528);
-            this.comboEnfermedad.Name = "comboEnfermedad";
-            this.comboEnfermedad.Size = new System.Drawing.Size(42, 21);
-            this.comboEnfermedad.TabIndex = 147;
-            // 
-            // label19
-            // 
-            this.label19.AutoSize = true;
-            this.label19.Location = new System.Drawing.Point(34, 536);
-            this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(168, 13);
-            this.label19.TabIndex = 146;
-            this.label19.Text = "¿Padece de alguna enfermedad? ";
-            // 
-            // label18
-            // 
-            this.label18.AutoSize = true;
-            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label18.Location = new System.Drawing.Point(36, 479);
-            this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(396, 13);
-            this.label18.TabIndex = 145;
-            this.label18.Text = "Indicar si el paciente presenta alguna de las siguientes condiciones:";
-            // 
-            // label17
-            // 
-            this.label17.AutoSize = true;
-            this.label17.ForeColor = System.Drawing.SystemColors.AppWorkspace;
-            this.label17.Location = new System.Drawing.Point(13, 635);
-            this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(631, 13);
-            this.label17.TabIndex = 144;
-            this.label17.Text = "_________________________________________________________________________________" +
-    "_______________________";
-            // 
-            // comboTratamiento
-            // 
-            this.comboTratamiento.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.comboTratamiento.FormattingEnabled = true;
-            this.comboTratamiento.Items.AddRange(new object[] {
-            "Si",
-            "No"});
-            this.comboTratamiento.Location = new System.Drawing.Point(208, 500);
-            this.comboTratamiento.Name = "comboTratamiento";
-            this.comboTratamiento.Size = new System.Drawing.Size(42, 21);
-            this.comboTratamiento.TabIndex = 143;
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(36, 508);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(148, 13);
-            this.label14.TabIndex = 142;
-            this.label14.Text = "¿Recibe tratamiento médico? ";
-            // 
             // txtMedico
             // 
             this.txtMedico.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtMedico.Location = new System.Drawing.Point(173, 425);
+            this.txtMedico.Location = new System.Drawing.Point(155, 411);
             this.txtMedico.Name = "txtMedico";
             this.txtMedico.Size = new System.Drawing.Size(279, 20);
             this.txtMedico.TabIndex = 141;
@@ -288,7 +141,7 @@
             // label27
             // 
             this.label27.AutoSize = true;
-            this.label27.Location = new System.Drawing.Point(35, 432);
+            this.label27.Location = new System.Drawing.Point(17, 418);
             this.label27.Name = "label27";
             this.label27.Size = new System.Drawing.Size(45, 13);
             this.label27.TabIndex = 140;
@@ -304,7 +157,7 @@
             this.groupBox3.Controls.Add(this.label25);
             this.groupBox3.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox3.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.groupBox3.Location = new System.Drawing.Point(718, 61);
+            this.groupBox3.Location = new System.Drawing.Point(700, 47);
             this.groupBox3.Name = "groupBox3";
             this.groupBox3.Size = new System.Drawing.Size(521, 142);
             this.groupBox3.TabIndex = 139;
@@ -397,7 +250,7 @@
             // 
             // dateTimeFecha
             // 
-            this.dateTimeFecha.Location = new System.Drawing.Point(521, 152);
+            this.dateTimeFecha.Location = new System.Drawing.Point(503, 138);
             this.dateTimeFecha.Name = "dateTimeFecha";
             this.dateTimeFecha.Size = new System.Drawing.Size(123, 20);
             this.dateTimeFecha.TabIndex = 138;
@@ -405,7 +258,7 @@
             // label24
             // 
             this.label24.AutoSize = true;
-            this.label24.Location = new System.Drawing.Point(461, 159);
+            this.label24.Location = new System.Drawing.Point(443, 145);
             this.label24.Name = "label24";
             this.label24.Size = new System.Drawing.Size(40, 13);
             this.label24.TabIndex = 137;
@@ -421,7 +274,7 @@
             this.groupBox2.Controls.Add(this.label28);
             this.groupBox2.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.groupBox2.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.groupBox2.Location = new System.Drawing.Point(718, 250);
+            this.groupBox2.Location = new System.Drawing.Point(700, 236);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(521, 129);
             this.groupBox2.TabIndex = 136;
@@ -495,7 +348,7 @@
             // txtCorreo
             // 
             this.txtCorreo.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtCorreo.Location = new System.Drawing.Point(173, 399);
+            this.txtCorreo.Location = new System.Drawing.Point(155, 385);
             this.txtCorreo.Name = "txtCorreo";
             this.txtCorreo.Size = new System.Drawing.Size(279, 20);
             this.txtCorreo.TabIndex = 135;
@@ -503,7 +356,7 @@
             // label16
             // 
             this.label16.AutoSize = true;
-            this.label16.Location = new System.Drawing.Point(35, 406);
+            this.label16.Location = new System.Drawing.Point(17, 392);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(96, 13);
             this.label16.TabIndex = 134;
@@ -516,7 +369,7 @@
             this.comboGenero.Items.AddRange(new object[] {
             "Masculino",
             "Femenino"});
-            this.comboGenero.Location = new System.Drawing.Point(521, 182);
+            this.comboGenero.Location = new System.Drawing.Point(503, 168);
             this.comboGenero.Name = "comboGenero";
             this.comboGenero.Size = new System.Drawing.Size(122, 21);
             this.comboGenero.TabIndex = 133;
@@ -524,7 +377,7 @@
             // label15
             // 
             this.label15.AutoSize = true;
-            this.label15.Location = new System.Drawing.Point(461, 190);
+            this.label15.Location = new System.Drawing.Point(443, 176);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(45, 13);
             this.label15.TabIndex = 132;
@@ -533,7 +386,7 @@
             // txtApartado
             // 
             this.txtApartado.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtApartado.Location = new System.Drawing.Point(521, 373);
+            this.txtApartado.Location = new System.Drawing.Point(503, 359);
             this.txtApartado.Name = "txtApartado";
             this.txtApartado.Size = new System.Drawing.Size(122, 20);
             this.txtApartado.TabIndex = 131;
@@ -541,7 +394,7 @@
             // label13
             // 
             this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(461, 380);
+            this.label13.Location = new System.Drawing.Point(443, 366);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(38, 13);
             this.label13.TabIndex = 130;
@@ -550,7 +403,7 @@
             // txtTelefonoHabitacion
             // 
             this.txtTelefonoHabitacion.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtTelefonoHabitacion.Location = new System.Drawing.Point(173, 373);
+            this.txtTelefonoHabitacion.Location = new System.Drawing.Point(155, 359);
             this.txtTelefonoHabitacion.Name = "txtTelefonoHabitacion";
             this.txtTelefonoHabitacion.Size = new System.Drawing.Size(279, 20);
             this.txtTelefonoHabitacion.TabIndex = 129;
@@ -558,7 +411,7 @@
             // label12
             // 
             this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(35, 380);
+            this.label12.Location = new System.Drawing.Point(17, 366);
             this.label12.Name = "label12";
             this.label12.Size = new System.Drawing.Size(119, 13);
             this.label12.TabIndex = 128;
@@ -567,7 +420,7 @@
             // txtExtension
             // 
             this.txtExtension.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtExtension.Location = new System.Drawing.Point(521, 345);
+            this.txtExtension.Location = new System.Drawing.Point(503, 331);
             this.txtExtension.Name = "txtExtension";
             this.txtExtension.Size = new System.Drawing.Size(122, 20);
             this.txtExtension.TabIndex = 127;
@@ -575,7 +428,7 @@
             // label11
             // 
             this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(461, 352);
+            this.label11.Location = new System.Drawing.Point(443, 338);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(56, 13);
             this.label11.TabIndex = 126;
@@ -584,7 +437,7 @@
             // txtTelefOficina
             // 
             this.txtTelefOficina.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtTelefOficina.Location = new System.Drawing.Point(173, 345);
+            this.txtTelefOficina.Location = new System.Drawing.Point(155, 331);
             this.txtTelefOficina.Name = "txtTelefOficina";
             this.txtTelefOficina.Size = new System.Drawing.Size(279, 20);
             this.txtTelefOficina.TabIndex = 125;
@@ -592,7 +445,7 @@
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(35, 352);
+            this.label10.Location = new System.Drawing.Point(17, 338);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(101, 13);
             this.label10.TabIndex = 124;
@@ -601,7 +454,7 @@
             // txtOcupacionPaciente
             // 
             this.txtOcupacionPaciente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtOcupacionPaciente.Location = new System.Drawing.Point(173, 317);
+            this.txtOcupacionPaciente.Location = new System.Drawing.Point(155, 303);
             this.txtOcupacionPaciente.Name = "txtOcupacionPaciente";
             this.txtOcupacionPaciente.Size = new System.Drawing.Size(279, 20);
             this.txtOcupacionPaciente.TabIndex = 123;
@@ -609,7 +462,7 @@
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(35, 324);
+            this.label9.Location = new System.Drawing.Point(17, 310);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(62, 13);
             this.label9.TabIndex = 122;
@@ -618,7 +471,7 @@
             // txtCedulaPaciente
             // 
             this.txtCedulaPaciente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtCedulaPaciente.Location = new System.Drawing.Point(173, 291);
+            this.txtCedulaPaciente.Location = new System.Drawing.Point(155, 277);
             this.txtCedulaPaciente.Name = "txtCedulaPaciente";
             this.txtCedulaPaciente.Size = new System.Drawing.Size(279, 20);
             this.txtCedulaPaciente.TabIndex = 121;
@@ -626,7 +479,7 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(35, 298);
+            this.label8.Location = new System.Drawing.Point(17, 284);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(72, 13);
             this.label8.TabIndex = 120;
@@ -636,7 +489,7 @@
             // 
             this.ComboProvincia.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ComboProvincia.FormattingEnabled = true;
-            this.ComboProvincia.Location = new System.Drawing.Point(173, 264);
+            this.ComboProvincia.Location = new System.Drawing.Point(155, 250);
             this.ComboProvincia.Name = "ComboProvincia";
             this.ComboProvincia.Size = new System.Drawing.Size(279, 21);
             this.ComboProvincia.TabIndex = 119;
@@ -644,7 +497,7 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(35, 272);
+            this.label7.Location = new System.Drawing.Point(17, 258);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(54, 13);
             this.label7.TabIndex = 118;
@@ -654,7 +507,7 @@
             // 
             this.comboCanton.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.comboCanton.FormattingEnabled = true;
-            this.comboCanton.Location = new System.Drawing.Point(521, 264);
+            this.comboCanton.Location = new System.Drawing.Point(503, 250);
             this.comboCanton.Name = "comboCanton";
             this.comboCanton.Size = new System.Drawing.Size(122, 21);
             this.comboCanton.TabIndex = 117;
@@ -662,7 +515,7 @@
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(461, 272);
+            this.label6.Location = new System.Drawing.Point(443, 258);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(44, 13);
             this.label6.TabIndex = 116;
@@ -671,7 +524,7 @@
             // txtDireccionPaciente
             // 
             this.txtDireccionPaciente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtDireccionPaciente.Location = new System.Drawing.Point(173, 238);
+            this.txtDireccionPaciente.Location = new System.Drawing.Point(155, 224);
             this.txtDireccionPaciente.Name = "txtDireccionPaciente";
             this.txtDireccionPaciente.Size = new System.Drawing.Size(279, 20);
             this.txtDireccionPaciente.TabIndex = 115;
@@ -679,7 +532,7 @@
             // txtRecomendadoPor
             // 
             this.txtRecomendadoPor.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtRecomendadoPor.Location = new System.Drawing.Point(173, 209);
+            this.txtRecomendadoPor.Location = new System.Drawing.Point(155, 195);
             this.txtRecomendadoPor.Name = "txtRecomendadoPor";
             this.txtRecomendadoPor.Size = new System.Drawing.Size(279, 20);
             this.txtRecomendadoPor.TabIndex = 114;
@@ -687,7 +540,7 @@
             // txtNomPaciente
             // 
             this.txtNomPaciente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtNomPaciente.Location = new System.Drawing.Point(173, 183);
+            this.txtNomPaciente.Location = new System.Drawing.Point(155, 169);
             this.txtNomPaciente.Name = "txtNomPaciente";
             this.txtNomPaciente.Size = new System.Drawing.Size(279, 20);
             this.txtNomPaciente.TabIndex = 113;
@@ -695,7 +548,7 @@
             // txtNumeroExpediente
             // 
             this.txtNumeroExpediente.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtNumeroExpediente.Location = new System.Drawing.Point(173, 157);
+            this.txtNumeroExpediente.Location = new System.Drawing.Point(155, 143);
             this.txtNumeroExpediente.Name = "txtNumeroExpediente";
             this.txtNumeroExpediente.Size = new System.Drawing.Size(108, 20);
             this.txtNumeroExpediente.TabIndex = 112;
@@ -703,7 +556,7 @@
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(35, 245);
+            this.label5.Location = new System.Drawing.Point(17, 231);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(55, 13);
             this.label5.TabIndex = 111;
@@ -712,7 +565,7 @@
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(35, 216);
+            this.label4.Location = new System.Drawing.Point(17, 202);
             this.label4.Name = "label4";
             this.label4.Size = new System.Drawing.Size(98, 13);
             this.label4.TabIndex = 110;
@@ -721,7 +574,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(33, 190);
+            this.label3.Location = new System.Drawing.Point(15, 176);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(108, 13);
             this.label3.TabIndex = 109;
@@ -730,7 +583,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(33, 164);
+            this.label2.Location = new System.Drawing.Point(15, 150);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(103, 13);
             this.label2.TabIndex = 108;
@@ -740,7 +593,7 @@
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(517, 18);
+            this.label1.Location = new System.Drawing.Point(499, 4);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(246, 24);
             this.label1.TabIndex = 107;
@@ -756,7 +609,7 @@
             this.groupBox1.Controls.Add(this.btnEliminarPaciente);
             this.groupBox1.Controls.Add(this.btnBuscarPaciente);
             this.groupBox1.ForeColor = System.Drawing.SystemColors.ControlText;
-            this.groupBox1.Location = new System.Drawing.Point(30, 55);
+            this.groupBox1.Location = new System.Drawing.Point(12, 41);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(614, 90);
             this.groupBox1.TabIndex = 106;
@@ -790,26 +643,6 @@
             this.label32.TabIndex = 106;
             this.label32.Text = "Buscar Paciente";
             // 
-            // btnCancelar
-            // 
-            this.btnCancelar.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnCancelar.BackgroundImage")));
-            this.btnCancelar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnCancelar.Location = new System.Drawing.Point(669, 657);
-            this.btnCancelar.Name = "btnCancelar";
-            this.btnCancelar.Size = new System.Drawing.Size(94, 41);
-            this.btnCancelar.TabIndex = 158;
-            this.btnCancelar.UseVisualStyleBackColor = true;
-            // 
-            // btnIngresarPaciente
-            // 
-            this.btnIngresarPaciente.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnIngresarPaciente.BackgroundImage")));
-            this.btnIngresarPaciente.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
-            this.btnIngresarPaciente.Location = new System.Drawing.Point(549, 657);
-            this.btnIngresarPaciente.Name = "btnIngresarPaciente";
-            this.btnIngresarPaciente.Size = new System.Drawing.Size(94, 41);
-            this.btnIngresarPaciente.TabIndex = 157;
-            this.btnIngresarPaciente.UseVisualStyleBackColor = true;
-            // 
             // pictureBox1
             // 
             this.pictureBox1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
@@ -841,7 +674,6 @@
             this.btnEliminarPaciente.Size = new System.Drawing.Size(53, 50);
             this.btnEliminarPaciente.TabIndex = 1;
             this.btnEliminarPaciente.UseVisualStyleBackColor = true;
-            this.btnEliminarPaciente.Click += new System.EventHandler(this.btnEliminarPaciente_Click);
             // 
             // btnBuscarPaciente
             // 
@@ -852,17 +684,182 @@
             this.btnBuscarPaciente.Size = new System.Drawing.Size(53, 50);
             this.btnBuscarPaciente.TabIndex = 0;
             this.btnBuscarPaciente.UseVisualStyleBackColor = true;
-            this.btnBuscarPaciente.Click += new System.EventHandler(this.btnBuscarPaciente_Click);
+            // 
+            // btnIngresarPaciente
+            // 
+            this.btnIngresarPaciente.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("btnIngresarPaciente.BackgroundImage")));
+            this.btnIngresarPaciente.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnIngresarPaciente.Location = new System.Drawing.Point(524, 631);
+            this.btnIngresarPaciente.Name = "btnIngresarPaciente";
+            this.btnIngresarPaciente.Size = new System.Drawing.Size(102, 41);
+            this.btnIngresarPaciente.TabIndex = 156;
+            this.btnIngresarPaciente.UseVisualStyleBackColor = true;
+            // 
+            // comboAlteracionSalud
+            // 
+            this.comboAlteracionSalud.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboAlteracionSalud.FormattingEnabled = true;
+            this.comboAlteracionSalud.Items.AddRange(new object[] {
+            "Si",
+            "No"});
+            this.comboAlteracionSalud.Location = new System.Drawing.Point(387, 580);
+            this.comboAlteracionSalud.Name = "comboAlteracionSalud";
+            this.comboAlteracionSalud.Size = new System.Drawing.Size(42, 21);
+            this.comboAlteracionSalud.TabIndex = 155;
+            // 
+            // label22
+            // 
+            this.label22.AutoSize = true;
+            this.label22.Location = new System.Drawing.Point(17, 588);
+            this.label22.Name = "label22";
+            this.label22.Size = new System.Drawing.Size(364, 13);
+            this.label22.TabIndex = 154;
+            this.label22.Text = "¿Ha observado alguna alteración en la salud en general los últimos meses? ";
+            // 
+            // comboOperaciones
+            // 
+            this.comboOperaciones.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboOperaciones.FormattingEnabled = true;
+            this.comboOperaciones.Items.AddRange(new object[] {
+            "Si",
+            "No"});
+            this.comboOperaciones.Location = new System.Drawing.Point(387, 551);
+            this.comboOperaciones.Name = "comboOperaciones";
+            this.comboOperaciones.Size = new System.Drawing.Size(42, 21);
+            this.comboOperaciones.TabIndex = 153;
+            // 
+            // label21
+            // 
+            this.label21.AutoSize = true;
+            this.label21.Location = new System.Drawing.Point(17, 559);
+            this.label21.Name = "label21";
+            this.label21.Size = new System.Drawing.Size(289, 13);
+            this.label21.TabIndex = 152;
+            this.label21.Text = "¿Ha tenido operaciones médicas o ha estado internado(a)? ";
+            // 
+            // comboAlergias
+            // 
+            this.comboAlergias.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboAlergias.FormattingEnabled = true;
+            this.comboAlergias.Items.AddRange(new object[] {
+            "Aspirina ",
+            "Penicilina ",
+            "Sulfas ",
+            "OtrosMedicamentos "});
+            this.comboAlergias.Location = new System.Drawing.Point(189, 531);
+            this.comboAlergias.Name = "comboAlergias";
+            this.comboAlergias.Size = new System.Drawing.Size(130, 21);
+            this.comboAlergias.TabIndex = 151;
+            // 
+            // label20
+            // 
+            this.label20.AutoSize = true;
+            this.label20.Location = new System.Drawing.Point(17, 534);
+            this.label20.Name = "label20";
+            this.label20.Size = new System.Drawing.Size(72, 13);
+            this.label20.TabIndex = 150;
+            this.label20.Text = "Alérgico(a)  a:";
+            // 
+            // txtNomEnfermedad
+            // 
+            this.txtNomEnfermedad.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.txtNomEnfermedad.Location = new System.Drawing.Point(246, 498);
+            this.txtNomEnfermedad.Name = "txtNomEnfermedad";
+            this.txtNomEnfermedad.Size = new System.Drawing.Size(217, 20);
+            this.txtNomEnfermedad.TabIndex = 149;
+            // 
+            // comboEnfermedad
+            // 
+            this.comboEnfermedad.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboEnfermedad.FormattingEnabled = true;
+            this.comboEnfermedad.Items.AddRange(new object[] {
+            "Si",
+            "No"});
+            this.comboEnfermedad.Location = new System.Drawing.Point(189, 497);
+            this.comboEnfermedad.Name = "comboEnfermedad";
+            this.comboEnfermedad.Size = new System.Drawing.Size(42, 21);
+            this.comboEnfermedad.TabIndex = 148;
+            // 
+            // label19
+            // 
+            this.label19.AutoSize = true;
+            this.label19.Location = new System.Drawing.Point(15, 505);
+            this.label19.Name = "label19";
+            this.label19.Size = new System.Drawing.Size(168, 13);
+            this.label19.TabIndex = 147;
+            this.label19.Text = "¿Padece de alguna enfermedad? ";
+            // 
+            // label18
+            // 
+            this.label18.AutoSize = true;
+            this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label18.Location = new System.Drawing.Point(17, 448);
+            this.label18.Name = "label18";
+            this.label18.Size = new System.Drawing.Size(396, 13);
+            this.label18.TabIndex = 146;
+            this.label18.Text = "Indicar si el paciente presenta alguna de las siguientes condiciones:";
+            // 
+            // label17
+            // 
+            this.label17.AutoSize = true;
+            this.label17.ForeColor = System.Drawing.SystemColors.AppWorkspace;
+            this.label17.Location = new System.Drawing.Point(-6, 604);
+            this.label17.Name = "label17";
+            this.label17.Size = new System.Drawing.Size(631, 13);
+            this.label17.TabIndex = 145;
+            this.label17.Text = "_________________________________________________________________________________" +
+    "_______________________";
+            // 
+            // comboTratamiento
+            // 
+            this.comboTratamiento.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboTratamiento.FormattingEnabled = true;
+            this.comboTratamiento.Items.AddRange(new object[] {
+            "Si",
+            "No"});
+            this.comboTratamiento.Location = new System.Drawing.Point(189, 469);
+            this.comboTratamiento.Name = "comboTratamiento";
+            this.comboTratamiento.Size = new System.Drawing.Size(42, 21);
+            this.comboTratamiento.TabIndex = 144;
+            // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(17, 477);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(148, 13);
+            this.label14.TabIndex = 143;
+            this.label14.Text = "¿Recibe tratamiento médico? ";
+            // 
+            // btnCancelar
+            // 
+            this.btnCancelar.BackgroundImage = global::Capa.Formularios.Properties.Resources.boton_cancelar;
+            this.btnCancelar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.btnCancelar.Location = new System.Drawing.Point(652, 631);
+            this.btnCancelar.Name = "btnCancelar";
+            this.btnCancelar.Size = new System.Drawing.Size(102, 41);
+            this.btnCancelar.TabIndex = 159;
+            this.btnCancelar.UseVisualStyleBackColor = true;
+            // 
+            // label23
+            // 
+            this.label23.AutoSize = true;
+            this.label23.ForeColor = System.Drawing.SystemColors.AppWorkspace;
+            this.label23.Location = new System.Drawing.Point(649, 604);
+            this.label23.Name = "label23";
+            this.label23.Size = new System.Drawing.Size(625, 13);
+            this.label23.TabIndex = 158;
+            this.label23.Text = "_________________________________________________________________________________" +
+    "______________________";
             // 
             // NuevoExpediente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1292, 723);
+            this.ClientSize = new System.Drawing.Size(1233, 699);
             this.Controls.Add(this.btnCancelar);
-            this.Controls.Add(this.btnIngresarPaciente);
-            this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.label23);
+            this.Controls.Add(this.btnIngresarPaciente);
             this.Controls.Add(this.comboAlteracionSalud);
             this.Controls.Add(this.label22);
             this.Controls.Add(this.comboOperaciones);
@@ -876,6 +873,7 @@
             this.Controls.Add(this.label17);
             this.Controls.Add(this.comboTratamiento);
             this.Controls.Add(this.label14);
+            this.Controls.Add(this.groupBox4);
             this.Controls.Add(this.txtMedico);
             this.Controls.Add(this.label27);
             this.Controls.Add(this.groupBox3);
@@ -912,8 +910,9 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.groupBox1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "NuevoExpediente";
-            this.Text = "NuevoExpediente";
+            this.Text = "Expediente";
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
             this.groupBox3.ResumeLayout(false);
@@ -932,20 +931,6 @@
 
         private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.TextBox txtObservaciones;
-        private System.Windows.Forms.Label label23;
-        private System.Windows.Forms.ComboBox comboAlteracionSalud;
-        private System.Windows.Forms.Label label22;
-        private System.Windows.Forms.ComboBox comboOperaciones;
-        private System.Windows.Forms.Label label21;
-        private System.Windows.Forms.ComboBox comboAlergias;
-        private System.Windows.Forms.Label label20;
-        private System.Windows.Forms.TextBox txtNomEnfermedad;
-        private System.Windows.Forms.ComboBox comboEnfermedad;
-        private System.Windows.Forms.Label label19;
-        private System.Windows.Forms.Label label18;
-        private System.Windows.Forms.Label label17;
-        private System.Windows.Forms.ComboBox comboTratamiento;
-        private System.Windows.Forms.Label label14;
         private System.Windows.Forms.TextBox txtMedico;
         private System.Windows.Forms.Label label27;
         private System.Windows.Forms.GroupBox groupBox3;
@@ -1001,7 +986,21 @@
         private System.Windows.Forms.Button btnRegresarMenu;
         private System.Windows.Forms.Button btnEliminarPaciente;
         private System.Windows.Forms.Button btnBuscarPaciente;
-        private System.Windows.Forms.Button btnCancelar;
         private System.Windows.Forms.Button btnIngresarPaciente;
+        private System.Windows.Forms.ComboBox comboAlteracionSalud;
+        private System.Windows.Forms.Label label22;
+        private System.Windows.Forms.ComboBox comboOperaciones;
+        private System.Windows.Forms.Label label21;
+        private System.Windows.Forms.ComboBox comboAlergias;
+        private System.Windows.Forms.Label label20;
+        private System.Windows.Forms.TextBox txtNomEnfermedad;
+        private System.Windows.Forms.ComboBox comboEnfermedad;
+        private System.Windows.Forms.Label label19;
+        private System.Windows.Forms.Label label18;
+        private System.Windows.Forms.Label label17;
+        private System.Windows.Forms.ComboBox comboTratamiento;
+        private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.Button btnCancelar;
+        private System.Windows.Forms.Label label23;
     }
 }
