@@ -77,36 +77,3 @@ C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formula
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Busines.dll
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Models.dll
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\MySql.Data.dll
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Acceso.dll
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Busines.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Models.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Acceso.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorCobrar.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorPagar.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentasCobrar.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentaPagar.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.EditarPacientes.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Eliminar_Paciente.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarPaciente.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Historiales.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoExpediente.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarProductos.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Productos.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaAgenda.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaFactura.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.BuscaProveedor.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoUsuario.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoProveedor.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Logueo.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.MenuPrincipal.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Properties.Resources.resources
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.csproj.GenerateResource.Cache
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
