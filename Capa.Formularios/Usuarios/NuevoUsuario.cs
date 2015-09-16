@@ -40,5 +40,31 @@ namespace Capa.Formularios
             dgv.AutoGenerateColumns = false;
             Leer("");
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            var oEntidad = new Capa.Models.NuevoUsuario();
+            if (usuario != null)
+                
+            oEntidad.Nombre_Completo = textNombreCompleto.Text.Trim();
+            oEntidad.Nombre_Usuario = textUsuario.Text.Trim();
+            oEntidad.Tipo_Usuario= Models.TipoUsuario.AdministradorGeneral;
+            oEntidad.Fecha_Creacion = DateTime.Now;
+            oEntidad.Correo = textCorreo.Text.Trim();
+            oEntidad.Contraseña = textContraseña.Text.Trim();
+          
+
+            try
+            {
+                Capa.Busines.UsuariosMetodos.Grabar(oEntidad);
+              
+                Leer("");
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, this.Text, MessageBoxButtons.OK, MessageBoxIcon.Warning);
+            }
+            finally { oEntidad = null; }
+        }
     }
 }
