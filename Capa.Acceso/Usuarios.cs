@@ -15,6 +15,7 @@ namespace Capa.Acceso
         public static bool Grabar(Capa.Models.NuevoUsuario pEntidad)
         {
             using (var cn = new MySqlConnection(Conexion.LeerCC))
+
             {
                 // Contamos cuantos usuarios existen
                 using (var cmd = new MySqlCommand(@"select ifnull(count(Nombre_Completo),0) from Clinica where Nombre_Completo=@Nombre ", cn))
@@ -26,7 +27,7 @@ namespace Capa.Acceso
                     cmd.Parameters.AddWithValue("email", pEntidad.Correo);
                     cmd.Parameters.AddWithValue("Pass", pEntidad.Contraseña);
                     cmd.Parameters.AddWithValue("Fecha", pEntidad.Fecha_Creacion);
-                 
+
 
                     cn.Open();
                     // Ejecutamos el comando y verificamos si el resultado es mayor a cero actualizar, caso contrario insertar
@@ -45,7 +46,7 @@ namespace Capa.Acceso
                         // Si las comprobaciones anteriores resultaron ser falsa, entonces actualizar
                         cmd.CommandText = @"insert into Usuarios (Nombre_Completo,Nombre_Usuario,Tipo_Usuario,Correo,Contraseña,Fecha_Creacion) values (@Nombre, @Usuario, @TipoUsuario, @email, @Pass, @Fecha);";
                     }
-                    
+
                     // Ejecutamos el comando que puede ser para update o insert
                     return Convert.ToBoolean(cmd.ExecuteNonQuery());
                 }
