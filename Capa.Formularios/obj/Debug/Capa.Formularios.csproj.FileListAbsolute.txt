@@ -83,3 +83,6 @@ C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Cap
 C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
+C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
