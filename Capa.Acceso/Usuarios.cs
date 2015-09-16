@@ -16,7 +16,7 @@ namespace Capa.Acceso
         {
             using (var cn = new MySqlConnection(Conexion.LeerCC))
             {
-                // Contamos cuantos amigos existen segun el codamigo o nombre
+                // Contamos cuantos usuarios existen
                 using (var cmd = new MySqlCommand(@"select ifnull(count(Nombre_Completo),0) from Clinica where Nombre_Completo=@Nombre ", cn))
                 {
                     //Asignar valores a los parametros
