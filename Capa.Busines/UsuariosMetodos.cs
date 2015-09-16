@@ -22,18 +22,17 @@ namespace Capa.Busines
             return Capa.Acceso.Usuarios.Grabar(pEntidad);
            
         }
-        
+
         //public static bool Eliminar(Entidades.Amigo pEntidad)
         //{
         //    return AccesoDato.adAmigo.Eliminar(pEntidad);
         //}
 
-        //public static List<Entidades.Amigo> Listar(string dato)
-        //{
-        //    return AccesoDato.adAmigo.Leer(dato);
-        //}
+        public static List<Capa.Models.NuevoUsuario> Listar(string dato)
+        {
+            return Capa.Acceso.Usuarios.Leer(dato);
+        }
     }
 }
 
-    }
-}
+   
