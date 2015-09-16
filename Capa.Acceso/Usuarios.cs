@@ -68,51 +68,39 @@ namespace Capa.Acceso
         //    }
         //}
 
-        //public static List<Entidades.Amigo> Leer(string dato)
-        //{
-        //    // Crea un obj. lista de tipo Amigo
-        //    var lista = new List<Entidades.Amigo>();
-        //    // Crear el objeto de conexion
-        //    using (var cn = new MySqlConnection(conexion.LeerCC))
-        //    {
-        //        // crear el comando
-        //        using (var cmd = new MySqlCommand("select codamigo, nomdistrito, nombre, dni, fecnac, sexo, direccion, telefono from distritos inner join amigos on distritos.coddistrito = amigos.coddistrito where nombre like Concat(@nom, '%');", cn))
-        //        {
-        //            //Asignar valores a los parametros
-        //            cmd.Parameters.AddWithValue("nom", dato);
+        public static List<Capa.Models.NuevoUsuario> Leer(string dato)
+        {
+            // Crea un obj. lista de tipo Distrito
+            var lista = new List<Capa.Models.NuevoUsuario>();
+            // Crear el objeto de conexion
+            using (var cn = new MySqlConnection(Conexion.LeerCC))
+            {
+                // crear el comando
+                using (var cmd = new MySqlCommand("select Nombre_Completo,  from Usuarios where Nombre_Completo like Concat(@Nombre, '%');", cn))
+                {
+                    //Asignar valores a los parametros
+                    cmd.Parameters.AddWithValue("Nombre", dato);
 
-        //            // Abrir el objeto de conexion
-        //            cn.Open();
-        //            using (var dr = cmd.ExecuteReader())
-        //            {
-        //                while (dr.Read())
-        //                {
-        //                    // Crea un objeto del distrito
-        //                    var oDistrito = new Entidades.Distrito();
-        //                    var oAmigo = new Entidades.Amigo();
-        //                    oAmigo.codamigo = Convert.ToInt32(dr[dr.GetOrdinal("codamigo")]);
+                    // Abrir el objeto de conexion
+                    cn.Open();
+                    using (var dr = cmd.ExecuteReader())
+                    {
+                        while (dr.Read())
+                        {
+                            // Crea un objeto del Usuario
+                            var usuarios = new Capa.Models.NuevoUsuario();
+                            usuarios.Nombre_Completo= "Nombre";
+                            
+                            // El objeto Usuario es agregado a la lista
+                            lista.Add(usuarios);
+                            usuarios = null;
+                        }
+                    }
 
-        //                    // Aqui obtenemos el nombre del distrito para luego ser enviado al objeto amigo
-        //                    oDistrito.nomdistrito = Convert.ToString(dr[dr.GetOrdinal("nomdistrito")]);
-        //                    oAmigo.edistrito = oDistrito;
-
-        //                    oAmigo.nombre = Convert.ToString(dr[dr.GetOrdinal("nombre")]);
-        //                    oAmigo.dni = Convert.ToString(dr[dr.GetOrdinal("dni")]);
-        //                    oAmigo.fecnac = Convert.ToDateTime(dr[dr.GetOrdinal("fecnac")]);
-        //                    oAmigo.sexo = Convert.ToString(dr[dr.GetOrdinal("sexo")]);
-        //                    oAmigo.direccion = Convert.ToString(dr[dr.GetOrdinal("direccion")]);
-        //                    oAmigo.telefono = Convert.ToString(dr[dr.GetOrdinal("telefono")]);
-        //                    // El objeto amigo es agregado a la lista
-        //                    lista.Add(oAmigo);
-        //                    // marcamos a los objetos creamos como nulos
-        //                    oDistrito = null;
-        //                    oAmigo = null;
-        //                }
-        //            }
-
-        //            // Retorna una lista de datos
-        //            return lista;
-        //        }
+    
+            // Retorna una lista de datos
+            return lista;
+                }
             }
         
     
