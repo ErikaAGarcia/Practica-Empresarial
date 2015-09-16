@@ -243,6 +243,20 @@
   <ItemGroup>
     <None Include="Resources\boton.buscar.gif" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Capa.Acceso\Capa.Acceso.csproj">
+      <Project>{884e8c03-6da8-4297-95cf-14201531642f}</Project>
+      <Name>Capa.Acceso</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa.Busines\Capa.Busines.csproj">
+      <Project>{c5b20a14-16d6-4a0e-92c4-8f743d86448e}</Project>
+      <Name>Capa.Busines</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Capa.Models\Capa.Models.csproj">
+      <Project>{3f7d9b5a-2422-4f28-8fb0-f695a8cef46b}</Project>
+      <Name>Capa.Models</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

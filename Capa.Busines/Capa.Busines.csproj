@@ -47,10 +47,6 @@
       <Project>{884e8c03-6da8-4297-95cf-14201531642f}</Project>
       <Name>Capa.Acceso</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Capa.Formularios\Capa.Formularios.csproj">
-      <Project>{e62f9069-d71e-4e35-a63c-239a80c1c987}</Project>
-      <Name>Capa.Formularios</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Capa.Models\Capa.Models.csproj">
       <Project>{3f7d9b5a-2422-4f28-8fb0-f695a8cef46b}</Project>
       <Name>Capa.Models</Name>

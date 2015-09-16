@@ -77,3 +77,6 @@ C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formula
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
+C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
