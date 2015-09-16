@@ -4,11 +4,12 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Capa.Pruebas
 {
     [TestClass]
-    public class UnitTest1
+    public class PruebasUsuario
     {
         [TestMethod]
-        public void TestMethod1()
-        {
+        public void PruebaAgrega()
+        { 
+
         }
     }
 }
