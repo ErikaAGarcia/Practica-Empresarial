@@ -1,0 +1,5 @@
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Models\bin\Debug\Capa.Models.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Models\bin\Debug\Capa.Models.pdb
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Models\obj\Debug\Capa.Models.csprojResolveAssemblyReference.cache
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Models\obj\Debug\Capa.Models.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Models\obj\Debug\Capa.Models.pdb

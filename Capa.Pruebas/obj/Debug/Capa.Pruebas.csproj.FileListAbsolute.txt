@@ -1,0 +1,7 @@
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\bin\Debug\Capa.Pruebas.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\bin\Debug\Capa.Pruebas.pdb
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\obj\Debug\Capa.Pruebas.csprojResolveAssemblyReference.cache
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\obj\Debug\Capa.Pruebas.dll
+C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Pruebas\obj\Debug\Capa.Pruebas.pdb
