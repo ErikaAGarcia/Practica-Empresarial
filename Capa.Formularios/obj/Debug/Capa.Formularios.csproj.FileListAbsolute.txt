@@ -92,3 +92,6 @@ C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
+C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
