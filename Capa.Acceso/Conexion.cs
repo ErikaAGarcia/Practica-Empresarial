@@ -11,9 +11,20 @@ namespace Capa.Acceso
     public class Conexion
     {
 
-     public static string LeerCC
+        public static string Cadena
         {
-            get { return "Server=localhost; Port=3306; User Id=root; password=erika12345;  Persist Security Info=True; database=Clinica"; }
+            get
+            {
+                try
+                {
+                    return "server=localhost;User Id=root ; database= clinica;pwd=erika12345";
+                }
+                catch (MySql.Data.MySqlClient.MySqlException ex)
+                {
+                    return ex.Message;
+                }
+
+
+            }
         }
-    }
 }
