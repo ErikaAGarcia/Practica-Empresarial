@@ -89,3 +89,6 @@ C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Cap
 C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
+C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
