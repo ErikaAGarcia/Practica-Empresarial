@@ -68,6 +68,12 @@
     <Compile Include="Administracion de Cuentas\BuscarCuentaPagar.Designer.cs">
       <DependentUpon>BuscarCuentaPagar.cs</DependentUpon>
     </Compile>
+    <Compile Include="Agenda\Busqueda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agenda\Busqueda.Designer.cs">
+      <DependentUpon>Busqueda.cs</DependentUpon>
+    </Compile>
     <Compile Include="Expediente_Pacientes\EditarPacientes.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -165,6 +171,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Administracion de Cuentas\BuscarCuentaPagar.resx">
       <DependentUpon>BuscarCuentaPagar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agenda\Busqueda.resx">
+      <DependentUpon>Busqueda.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Expediente_Pacientes\EditarPacientes.resx">
       <DependentUpon>EditarPacientes.cs</DependentUpon>

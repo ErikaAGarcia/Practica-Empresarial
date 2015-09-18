@@ -112,97 +112,6 @@ C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\
 C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.Properties.Resources.resources
 C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.csproj.GenerateResource.Cache
 =======
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.pdb
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csprojResolveAssemblyReference.cache
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Logueo.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.MenuPrincipal.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Properties.Resources.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csproj.GenerateResource.Cache
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscaProveedor.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoUsuario.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoProveedor.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarProductos.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Productos.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorCobrar.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorPagar.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentasCobrar.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentaPagar.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Eliminar_Paciente.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarPaciente.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Historiales.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoExpediente.resources
-c:\users\erika\documents\visual studio 2013\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.EditarPacientes.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorCobrar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorPagar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentasCobrar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentaPagar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.EditarPacientes.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Eliminar_Paciente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarPaciente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Historiales.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarProductos.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Productos.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoExpediente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaAgenda.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaFactura.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscaProveedor.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoUsuario.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoProveedor.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Logueo.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.MenuPrincipal.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Properties.Resources.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2013\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csproj.GenerateResource.Cache
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csprojResolveAssemblyReference.cache
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorCobrar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.CuentasPorPagar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentasCobrar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarCuentaPagar.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.EditarPacientes.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Eliminar_Paciente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarPaciente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Historiales.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscarProductos.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Productos.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoExpediente.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaAgenda.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevaFactura.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.BuscaProveedor.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoUsuario.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.NuevoProveedor.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Logueo.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.MenuPrincipal.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.Properties.Resources.resources
-C:\Users\LENOVO G50\Documents\Visual Studio 2015\Projects\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.csproj.GenerateResource.Cache
-C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\Erika\Desktop\Downloads\SCPIange\SCPI\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\Erika\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\LENOVO G50\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\Erika\Source\Repos\Practica-Empresarial7\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
-C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
-C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.exe
-C:\Users\Erika\Documents\GitHub\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Desktop\Reporsitorios\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
@@ -210,3 +119,6 @@ C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\bin\D
 C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
 >>>>>>> 17bf0c5e156f38286764a5a9010c3e45b8bbd06e
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
