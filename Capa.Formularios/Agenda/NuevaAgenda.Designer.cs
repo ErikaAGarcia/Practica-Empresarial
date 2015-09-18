@@ -159,9 +159,9 @@
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(243, 71);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(43, 13);
+            this.label3.Size = new System.Drawing.Size(52, 13);
             this.label3.TabIndex = 4;
-            this.label3.Text = "Cedula:";
+            this.label3.Text = "Teléfono:";
             // 
             // label2
             // 

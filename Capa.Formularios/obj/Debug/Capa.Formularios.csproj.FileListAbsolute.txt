@@ -119,3 +119,9 @@ C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\bin\D
 C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.exe
 C:\Users\Erika\Documents\Visual Studio 2015\Projects\SCPI\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
 >>>>>>> 17bf0c5e156f38286764a5a9010c3e45b8bbd06e
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial2\Capa.Formularios\bin\Debug\Capa.Formularios.exe.config
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.exe
+C:\Users\Josue Araya\Source\Repos\Practica-Empresarial2\Capa.Formularios\obj\Debug\Capa.Formularios.pdb
