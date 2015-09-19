@@ -45,6 +45,12 @@
     <Compile Include="Usuarios\NuevoUsuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Usuarios\TipoUsuario.cs" />
+    <Compile Include="_Pacientes\Canton.cs" />
+    <Compile Include="_Pacientes\Genero.cs" />
+    <Compile Include="_Pacientes\Paciente.cs" />
+    <Compile Include="_Pacientes\Parentezco.cs" />
+    <Compile Include="_Pacientes\Provincia.cs" />
+    <Compile Include="_Pacientes\SI_NO.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
